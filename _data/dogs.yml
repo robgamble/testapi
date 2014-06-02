@@ -9,9 +9,9 @@ spot:
   color: white
 
 lassie:
-  age: 70
+  age: 10
   breed: collie
-  color: brown
+  color: black
 
 poodle:
   age: 70
